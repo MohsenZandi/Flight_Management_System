@@ -1,4 +1,5 @@
 # Flight_Management_System
+This is our project for Database Design Course during our Bachelor's degree.
 A software in three-layer architecture which its goal is to manage various information of flights. The project is implemented by C# and SqlServer and benefits from WPF, WCF and Entity Framework.
 How to Run:
 1- Open   “CreateDB_Flights_Management.sql”   for creating DB
